@@ -1,17 +1,2 @@
-# weathering
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Weathering_Accu" 
+# Weathering (Accu)
+Learning Flutter, best way I learn is by doing. The current state right now of this app is not working. I tried following a basic weather app tutorial on YT but instead of using "Openweather" like the guy in video. I tried using accuweather but I seem to struggle to get working. So decided to give up on this version and just use OpenWeather like the guy did, if you have experience with Flutter and willing to help out as to what needs fixing please contact me via the issues.
